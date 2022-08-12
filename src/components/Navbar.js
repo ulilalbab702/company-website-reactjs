@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              DarkLeas
+              LOGO
             </Link>
           </h1>
           <ul className="bar">
@@ -60,18 +60,6 @@ function Navbar() {
             <li>
               <Link
                 onClick={openBar}
-                activeClass="active"
-                to="services"
-                spy={true}
-                smooth={true}
-                duration={1000}
-              >
-                Services
-              </Link>
-            </li>
-            <li>
-              <Link
-                onClick={openBar}
                 to="about-scroll"
                 spy={true}
                 smooth={true}
@@ -79,6 +67,42 @@ function Navbar() {
                 activeClass="active"
               >
                 About
+              </Link>
+            </li>
+            <li>
+              <Link
+                onClick={openBar}
+                to="services"
+                spy={true}
+                smooth={true}
+                duration={1000}
+                activeClass="active"
+              >
+                Business
+              </Link>
+            </li>
+            <li>
+              <Link
+                onClick={openBar}
+                to="services"
+                spy={true}
+                smooth={true}
+                duration={1000}
+                activeClass="active"
+              >
+                Services
+              </Link>
+            </li>
+            <li>
+              <Link
+                onClick={openBar}
+                activeClass="active"
+                to="services"
+                spy={true}
+                smooth={true}
+                duration={1000}
+              >
+                Media
               </Link>
             </li>
             <li>

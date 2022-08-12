@@ -2,10 +2,10 @@ function Header() {
   return (
     <header>
       <video src="/video.mp4" loop autoPlay muted></video>
-      <h1>Open Source Website</h1>
+      <h1>Yayasan Karya Bakti United Tractors</h1>
       <div className="row">
         <button className="btn" style={{ cursor: "pointer" }}>
-          Sign Up
+          Get started
         </button>
 
         <button className="btn" style={{ cursor: "pointer" }}>

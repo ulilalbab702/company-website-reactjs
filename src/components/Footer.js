@@ -10,7 +10,7 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">DarkLeas</h1>
+                <h1 className="logo">LOGO YKBUT</h1>
                 <p className="footer-text">
                   Lorem ipsum Here are thriteen health benefits of apples Lorem
         
@@ -46,10 +46,10 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >burhankcd@gmail.com</Link>
+                    <Link to="#" >ykbut@gmail.com</Link>
                   </li>
                   <li>
-                    <Link to="#" > Burhan #3265</Link>
+                    <Link to="#" > Yayasan Karya Bakti UT</Link>
                   </li>
                   <li>
                     <Link to="#" >0212 444 44 44</Link>
@@ -60,13 +60,13 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > Github</a>
+                    <a target="_blank" rel="noreferrer" href="https://instagram.com/" > Instagram</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>
+                    <a target="_blank" rel="noreferrer" href="https://twitter.com/" > Twitter</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> Linkedin</a>
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"> Linkedin</a>
                   </li>
                 </ul>
               </div>

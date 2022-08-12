@@ -1,13 +1,17 @@
 import About from '../components/About';
-import Services from '../components/Services';
 import Contact from '../components/Contact';
+import Business from './Business';
+import GallerySection from './Gallery';
+import Testimonial from './Testimonial';
 
 function Main() {
   return (
     <>
       <main>
-        <Services />
         <About />
+        <Business />
+        <Testimonial />
+        <GallerySection />
         <Contact />
       </main>
     </>
